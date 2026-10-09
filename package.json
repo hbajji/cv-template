@@ -1,0 +1,28 @@
+{
+  "name": "cv-template",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run check:i18n && tsc -b && vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr --logLevel warn && node scripts/prerender.mjs",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "check:i18n": "node --experimental-strip-types --no-warnings scripts/check-i18n.mts"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "firebase": "^13.0.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}

@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- ✏️ Replace the name, texts and https://your-site.netlify.app below (see README.md). -->
+    <title>Alex Martin — Chef de projet technique · Lead iOS</title>
+    <meta name="description" content="CV d’Alex Martin, chef de projet technique et Lead iOS : projets mobiles et web, pilotage Agile, encadrement d’équipes." />
+    <meta name="author" content="Alex Martin" />
+    <meta name="theme-color" content="#1f6fb2" />
+
+    <!-- One canonical page; the language is chosen from the browser or ?lang= -->
+    <link rel="canonical" href="https://your-site.netlify.app/" />
+    <link rel="alternate" hreflang="fr" href="https://your-site.netlify.app/?lang=fr" />
+    <link rel="alternate" hreflang="en" href="https://your-site.netlify.app/?lang=en" />
+    <link rel="alternate" hreflang="x-default" href="https://your-site.netlify.app/" />
+
+    <!-- Link previews (LinkedIn, WhatsApp, Slack, email…) -->
+    <meta property="og:type" content="profile" />
+    <meta property="og:site_name" content="Alex Martin" />
+    <meta property="og:title" content="Alex Martin — Chef de projet technique · Lead iOS" />
+    <meta property="og:description" content="Projets mobiles et web, pilotage Agile, encadrement d’équipes." />
+    <meta property="og:url" content="https://your-site.netlify.app/" />
+    <meta property="og:image" content="https://your-site.netlify.app/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Alex Martin — Chef de projet technique · Lead iOS" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="profile:first_name" content="Alex" />
+    <meta property="profile:last_name" content="Martin" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Structured data: a profile page about one person (Google "Profile page" rich result).
+         __BUILD_DATE__ is replaced by scripts/prerender.mjs with the build date and time (ISO 8601). -->
+    <meta property="article:modified_time" content="__BUILD_DATE__" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "url": "https://your-site.netlify.app/",
+        "name": "Alex Martin — Chef de projet technique · Lead iOS",
+        "inLanguage": ["fr", "en"],
+        "dateCreated": "2026-01-01T00:00:00Z",
+        "dateModified": "__BUILD_DATE__",
+        "mainEntity": {
+          "@type": "Person",
+          "name": "Alex Martin",
+          "jobTitle": "Chef de projet technique · Lead iOS",
+          "description": "Chef de projet technique et Lead iOS : projets mobiles et web, pilotage Agile, encadrement d’équipes.",
+          "worksFor": { "@type": "Organization", "name": "Acme Digital" },
+          "address": { "@type": "PostalAddress", "addressLocality": "Lyon", "addressCountry": "FR" },
+          "image": "https://your-site.netlify.app/og-image.png",
+          "sameAs": ["https://www.linkedin.com/in/your-profile/", "https://github.com/your-username"],
+          "knowsLanguage": ["fr", "en"],
+          "knowsAbout": ["Gestion de projet", "Méthodes agiles", "Scrum", "iOS", "Android"]
+        }
+      }
+    </script>
+    <!-- Boot loader styles are inline so they apply before the CSS/JS bundle arrives. -->
+    <style>
+      /* The loader is only shown while the page is "booting": no pre-rendered content yet
+         (dev), or the visitor's language differs from the pre-rendered one. */
+      .boot-loader {
+        display: none;
+      }
+      .booting .boot-loader {
+        position: fixed;
+        inset: 0;
+        z-index: 100;
+        display: grid;
+        place-content: center;
+        justify-items: center;
+        gap: 18px;
+        background: #eef1f5;
+        font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+        /* Only shown if loading takes a moment, to avoid a flash on fast connections. */
+        opacity: 0;
+        animation: boot-in 0.3s ease 0.2s forwards;
+      }
+      .boot-avatar {
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+        background: #1f6fb2;
+        color: #fff;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        animation: boot-pulse 1.4s ease-in-out infinite;
+      }
+      .boot-bar {
+        width: 120px;
+        height: 3px;
+        border-radius: 3px;
+        background: #dde3ea;
+        overflow: hidden;
+      }
+      .boot-bar::after {
+        content: '';
+        display: block;
+        width: 40%;
+        height: 100%;
+        border-radius: 3px;
+        background: #1f6fb2;
+        animation: boot-slide 1.1s ease-in-out infinite;
+      }
+      .booting #root {
+        visibility: hidden;
+      }
+      @keyframes boot-in {
+        to { opacity: 1; }
+      }
+      @keyframes boot-pulse {
+        50% { transform: scale(0.92); opacity: 0.85; }
+      }
+      @keyframes boot-slide {
+        from { transform: translateX(-100%); }
+        to { transform: translateX(250%); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .boot-avatar, .boot-bar::after { animation: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <div class="boot-loader" role="status" aria-label="Chargement · Loading">
+      <div class="boot-avatar" aria-hidden="true">AM</div>
+      <div class="boot-bar" aria-hidden="true"></div>
+    </div>
+    <script>
+      // Same priority as initialLang() in App.tsx: ?lang= > saved choice > browser languages.
+      // data-prerendered / data-langs are set by scripts/prerender.mjs at build time.
+      ;(function () {
+        var d = document.documentElement
+        var pre = d.getAttribute('data-prerendered')
+        var langs = (d.getAttribute('data-langs') || '').split(',')
+        var pick = function (l) {
+          return l && langs.indexOf(l) >= 0 ? l : null
+        }
+        var lang = null
+        try {
+          lang = pick(new URLSearchParams(location.search).get('lang')) || pick(localStorage.getItem('cv-lang'))
+        } catch (e) {}
+        var prefs = navigator.languages || [navigator.language]
+        for (var i = 0; !lang && i < prefs.length; i++) lang = pick((prefs[i] || '').split('-')[0].toLowerCase())
+        if (!pre || (lang && lang !== pre)) d.classList.add('booting')
+      })()
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

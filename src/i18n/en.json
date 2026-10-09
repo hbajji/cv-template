@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "label": "EN",
+    "order": 2,
+    "enabled": true,
+    "dir": "ltr",
+    "documentTitle": "Alex Martin — Technical Project Manager · iOS Lead",
+    "description": "Resume of Alex Martin, technical project manager and iOS lead: mobile and web projects, Agile delivery, team leadership.",
+    "pdfFileName": "Resume_Martin_Alex_EN",
+    "present": "present",
+    "months": "months"
+  },
+  "labels": {
+    "profile": "Profile",
+    "experience": "Work experience",
+    "earlier": "Earlier experience",
+    "transverse": "Cross-functional activities",
+    "education": "Education",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "languages": "Languages",
+    "interests": "Interests",
+    "nav": "Resume",
+    "projects": "Projects",
+    "projectsIntro": "A selection of projects I have worked on.",
+    "download": "Download PDF",
+    "consent": {
+      "text": "With your consent, this site uses Google Analytics (Google; data may be transferred outside the EU) to measure its audience: page views, résumé downloads, country of origin. Cookies are kept for 13 months at most. You can change your mind at any time via “Manage cookies” at the bottom of the page.",
+      "accept": "Accept",
+      "decline": "Decline",
+      "manage": "Manage cookies"
+    },
+    "footer": {
+      "copyright": "© {year} Alex Martin",
+      "updated": "Last updated: {date}"
+    },
+    "notice": {
+      "text": "This site is an example: replace this message or remove the banner (see README).",
+      "feedback": "Send feedback",
+      "feedbackSubject": "Feedback on your online resume",
+      "sourceText": "Want a similar resume? The source code is available.",
+      "source": "Ask for the code",
+      "sourceSubject": "Source code of your online resume",
+      "close": "Close this message"
+    },
+    "privacy": {
+      "link": "Privacy",
+      "title": "Privacy policy",
+      "updated": "Last updated: October 2026",
+      "close": "Close",
+      "sections": [
+        {
+          "heading": "Data controller",
+          "paragraphs": [
+            "This site is published in a personal capacity by Alex Martin. For any question about your data: {email}."
+          ]
+        },
+        {
+          "heading": "Data collected",
+          "paragraphs": [
+            "Without your consent, no audience measurement takes place. The site only stores your language and your cookie choice in your browser; this information never leaves your device.",
+            "With your consent, Google Analytics (through Firebase) measures the pages and sections viewed, résumé downloads and clicks on project links, along with technical information: browser, device type, approximate country. This data does not identify you by name.",
+            "Like any host, Netlify keeps technical logs (IP address, date, requested page) for the site’s security. Fonts are hosted on the site itself: no third-party service serves them."
+          ]
+        },
+        {
+          "heading": "Purposes and legal basis",
+          "paragraphs": [
+            "Audience measurement shows whether the site is visited and which parts interest visitors; it relies on your consent. Hosting and displaying the site rely on the publisher’s legitimate interest in running it."
+          ]
+        },
+        {
+          "heading": "Recipients and transfers",
+          "paragraphs": [
+            "Only the publisher looks at the statistics. The technical providers are Google (Analytics, Fonts) and Netlify, companies based in the United States; these transfers are covered by the safeguards provided by the GDPR (EU–US Data Privacy Framework or standard contractual clauses). No data is sold or used for advertising."
+          ]
+        },
+        {
+          "heading": "Retention periods",
+          "paragraphs": [
+            "Google Analytics cookies: 13 months at most. Statistics in Google Analytics: 14 months. Your cookie choice: 6 months, after which you are asked again."
+          ]
+        },
+        {
+          "heading": "Your rights",
+          "paragraphs": [
+            "You can withdraw your consent at any time via “Manage cookies” at the bottom of the page.",
+            "You have the right to access, rectify, erase, object to and restrict the processing of your data: write to {email}. As the statistics are pseudonymous, please include the value of your _ga cookie if possible so they can be found.",
+            "If you believe your rights are not respected, you can lodge a complaint with the CNIL (cnil.fr) or, in Morocco, the CNDP (cndp.ma)."
+          ]
+        }
+      ]
+    }
+  },
+  "identity": {
+    "title": "Technical Project Manager · iOS Lead",
+    "subtitle": "Agile delivery · iOS & Android · 8+ years of mobile projects",
+    "location": "Lyon, France"
+  },
+  "summary": "Technical project manager with 8+ years of experience designing and delivering mobile and web applications. I currently lead a team of 6 at Acme Digital, from planning to release. [Replace this text with your own summary: 3 to 5 lines about your role, experience and what you bring.]",
+  "about": {
+    "title": "About",
+    "intro": "Technical project manager and iOS lead at Acme Digital, I support a product team on a consumer mobile app.",
+    "dailyTitle": "Day to day",
+    "daily": [
+      "Delivery management: planning, deliverables tracking, Scrum ceremonies.",
+      "Quality: code reviews and regular releases through CI/CD.",
+      "Supporting the team and onboarding new hires."
+    ],
+    "projectsTitle": "Highlights",
+    "projects": [
+      "Mobile app — Acme Digital (since 2023)",
+      "Web platform — Nova Labs (2018 — 2019)"
+    ],
+    "outro": "This section is only on the website (not in the PDF): use it like your LinkedIn “About”."
+  },
+  "experiences": {
+    "acme": {
+      "location": "Lyon",
+      "highlights": [
+        "Cross-functional: pre-sales for mobile projects."
+      ],
+      "positions": {
+        "lead": {
+          "role": "Technical Project Manager & iOS Lead",
+          "context": "Client Example · mobile app",
+          "highlights": [
+            "Lead delivery: planning, deliverables follow-up and steering committees.",
+            "Coordinate a team of 6; run Scrum ceremonies.",
+            "Review pull requests and ship weekly builds through CI/CD."
+          ]
+        },
+        "developer": {
+          "role": "Mobile Developer",
+          "highlights": [
+            "Built iOS and Android apps published on the stores.",
+            "Set up continuous integration."
+          ]
+        }
+      }
+    },
+    "startup": {
+      "location": "Paris",
+      "positions": {
+        "main": {
+          "role": "Full-Stack Developer",
+          "context": "Startup · SaaS platform",
+          "highlights": [
+            "Built the front-end and back-end of a web platform.",
+            "Built a React Native mobile app."
+          ]
+        }
+      }
+    }
+  },
+  "earlier": "Internships: Company A (web app, 2016) · Company B (mobile app, 2015).",
+  "projects": {
+    "mobileApp": {
+      "name": "Consumer mobile app",
+      "context": "Acme Digital · client Example",
+      "role": "Technical Project Manager & iOS Lead",
+      "description": "iOS and Android app used by thousands of people. [Describe the project, your role and a measurable result.]"
+    },
+    "webPlatform": {
+      "name": "SaaS platform",
+      "context": "Nova Labs",
+      "role": "Full-stack development",
+      "description": "Web management platform for small businesses."
+    }
+  },
+  "projectGroups": {
+    "mentoring": {
+      "title": "Mentoring & POCs",
+      "intro": "Example of a themed section: remove or adapt it (mentoring, open source, side projects…).",
+      "projects": {
+        "internProject": {
+          "name": "Internal app",
+          "context": "Acme Digital · internal project",
+          "role": "Technical mentoring",
+          "description": "Mobile app built with two interns."
+        }
+      }
+    }
+  },
+  "education": {
+    "master": {
+      "degree": "Master’s in Computer Science",
+      "school": "Example University"
+    },
+    "bachelor": {
+      "degree": "Bachelor’s in Computer Science",
+      "school": "Example University"
+    }
+  },
+  "skills": {
+    "delivery": "Delivery & management",
+    "technical": "Technical",
+    "tools": "Tools"
+  },
+  "tags": {
+    "agileDelivery": "Agile delivery",
+    "ci": "Continuous integration",
+    "website": "Website",
+    "estimation": "Estimation & costing",
+    "stakeholders": "Client relationship"
+  },
+  "certifications": [
+    "Professional Scrum Master I — Scrum.org"
+  ],
+  "languages": {
+    "fr": {
+      "name": "French",
+      "level": "Native"
+    },
+    "en": {
+      "name": "English",
+      "level": "Fluent (C1)"
+    }
+  },
+  "interests": [
+    "Running",
+    "Photography"
+  ]
+}

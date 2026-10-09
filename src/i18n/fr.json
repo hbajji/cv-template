@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "label": "FR",
+    "order": 1,
+    "enabled": true,
+    "dir": "ltr",
+    "documentTitle": "Alex Martin — Chef de projet technique · Lead iOS",
+    "description": "CV d’Alex Martin, chef de projet technique et Lead iOS : projets mobiles et web, pilotage Agile, encadrement d’équipes.",
+    "pdfFileName": "CV_Martin_Alex_FR",
+    "present": "aujourd’hui",
+    "months": "mois"
+  },
+  "labels": {
+    "profile": "Profil",
+    "experience": "Expériences professionnelles",
+    "earlier": "Expériences antérieures",
+    "transverse": "Activités transverses",
+    "education": "Formation",
+    "skills": "Compétences",
+    "certifications": "Certifications",
+    "languages": "Langues",
+    "interests": "Centres d'intérêt",
+    "nav": "Curriculum vitae",
+    "projects": "Réalisations",
+    "projectsIntro": "Une sélection de projets sur lesquels j’ai travaillé.",
+    "download": "Télécharger le PDF",
+    "consent": {
+      "text": "Avec votre accord, ce site utilise Google Analytics (Google, données pouvant être transférées hors UE) pour mesurer son audience : pages vues, téléchargements du CV, pays d’origine. Les cookies sont conservés 13 mois au maximum. Vous pouvez changer d’avis à tout moment via « Gérer les cookies » en bas de page.",
+      "accept": "Accepter",
+      "decline": "Refuser",
+      "manage": "Gérer les cookies"
+    },
+    "footer": {
+      "copyright": "© {year} Alex Martin",
+      "updated": "Dernière mise à jour : {date}"
+    },
+    "notice": {
+      "text": "Ce site est un exemple : remplacez ce message ou supprimez le bandeau (voir README).",
+      "feedback": "Envoyer une remarque",
+      "feedbackSubject": "Remarque sur votre CV en ligne",
+      "sourceText": "Envie d’un CV similaire ? Le code source est disponible.",
+      "source": "Demander le code",
+      "sourceSubject": "Code source de votre CV en ligne",
+      "close": "Fermer le message"
+    },
+    "privacy": {
+      "link": "Confidentialité",
+      "title": "Politique de confidentialité",
+      "updated": "Dernière mise à jour : octobre 2026",
+      "close": "Fermer",
+      "sections": [
+        {
+          "heading": "Responsable du traitement",
+          "paragraphs": [
+            "Ce site est édité à titre personnel par Alex Martin. Pour toute question sur vos données : {email}."
+          ]
+        },
+        {
+          "heading": "Données collectées",
+          "paragraphs": [
+            "Sans votre accord, aucune mesure d’audience n’est faite. Le site enregistre seulement dans votre navigateur votre langue et votre choix sur les cookies ; ces informations ne quittent pas votre appareil.",
+            "Avec votre accord, Google Analytics (via Firebase) mesure les pages et sections consultées, les téléchargements du CV et les clics sur les liens de projets, ainsi que des informations techniques : navigateur, type d’appareil, pays approximatif. Ces données ne permettent pas de vous identifier nominativement.",
+            "Comme tout hébergeur, Netlify conserve des journaux techniques (adresse IP, date, page demandée) pour la sécurité du site. Les polices de caractères sont hébergées sur le site lui-même : aucun service tiers ne les fournit."
+          ]
+        },
+        {
+          "heading": "Finalités et base légale",
+          "paragraphs": [
+            "La mesure d’audience sert à savoir si le site est consulté et quelles parties intéressent les visiteurs ; elle repose sur votre consentement. L’hébergement et l’affichage du site reposent sur l’intérêt légitime de l’éditeur à le faire fonctionner."
+          ]
+        },
+        {
+          "heading": "Destinataires et transferts",
+          "paragraphs": [
+            "Seul l’éditeur consulte les statistiques. Les prestataires techniques sont Google (Analytics, Fonts) et Netlify, sociétés établies aux États-Unis ; ces transferts sont encadrés par les garanties prévues par le RGPD (Data Privacy Framework UE–États-Unis ou clauses contractuelles types). Aucune donnée n’est vendue ni utilisée à des fins publicitaires."
+          ]
+        },
+        {
+          "heading": "Durées de conservation",
+          "paragraphs": [
+            "Cookies Google Analytics : 13 mois maximum. Statistiques dans Google Analytics : 14 mois. Votre choix sur les cookies : 6 mois, après quoi il vous est redemandé."
+          ]
+        },
+        {
+          "heading": "Vos droits",
+          "paragraphs": [
+            "Vous pouvez retirer votre consentement à tout moment via « Gérer les cookies » en bas de page.",
+            "Vous disposez d’un droit d’accès, de rectification, d’effacement, d’opposition et de limitation sur vos données : écrivez à {email}. Les statistiques étant pseudonymes, indiquez si possible la valeur de votre cookie _ga pour qu’elles puissent être retrouvées.",
+            "Si vous estimez que vos droits ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL (cnil.fr) ou, au Maroc, à la CNDP (cndp.ma)."
+          ]
+        }
+      ]
+    }
+  },
+  "identity": {
+    "title": "Chef de projet technique · Lead iOS",
+    "subtitle": "Pilotage Agile · iOS & Android · 8+ ans de projets mobiles",
+    "location": "Lyon, France"
+  },
+  "summary": "Chef de projet technique avec plus de 8 ans d'expérience dans la conception et la livraison d'applications mobiles et web. Je pilote aujourd'hui une équipe de 6 personnes chez Acme Digital, de la planification à la mise en production. [Remplacez ce texte par votre propre résumé : 3 à 5 lignes sur votre rôle, votre expérience et ce que vous apportez.]",
+  "about": {
+    "title": "À propos",
+    "intro": "Chef de projet technique et Lead iOS chez Acme Digital, j’accompagne une équipe produit sur une application mobile grand public.",
+    "dailyTitle": "Mon quotidien",
+    "daily": [
+      "Pilotage du delivery : planning, suivi des livrables, cérémonies Scrum.",
+      "Qualité : revue de code et livraisons régulières via CI/CD.",
+      "Accompagnement de l’équipe et des nouvelles recrues."
+    ],
+    "projectsTitle": "Quelques projets marquants",
+    "projects": [
+      "Application mobile — Acme Digital (depuis 2023)",
+      "Plateforme web — Nova Labs (2018 — 2019)"
+    ],
+    "outro": "Cette section n’apparaît que sur le site (pas dans le PDF) : utilisez-la comme votre rubrique « Infos » LinkedIn."
+  },
+  "experiences": {
+    "acme": {
+      "location": "Lyon",
+      "highlights": [
+        "Activité transverse : participation à l’avant-vente des projets mobiles."
+      ],
+      "positions": {
+        "lead": {
+          "role": "Chef de projet technique & Lead iOS",
+          "context": "Client Exemple · application mobile",
+          "highlights": [
+            "Pilotage du delivery : planning, suivi des livrables et comités de pilotage.",
+            "Coordination d’une équipe de 6 personnes ; animation des cérémonies Scrum.",
+            "Validation des pull requests et livraisons hebdomadaires via CI/CD."
+          ]
+        },
+        "developer": {
+          "role": "Développeur mobile",
+          "highlights": [
+            "Développement d’applications iOS et Android publiées sur les stores.",
+            "Mise en place de l’intégration continue."
+          ]
+        }
+      }
+    },
+    "startup": {
+      "location": "Paris",
+      "positions": {
+        "main": {
+          "role": "Développeur Full-Stack",
+          "context": "Startup · plateforme SaaS",
+          "highlights": [
+            "Développement front et back d’une plateforme web.",
+            "Développement d’une application mobile React Native."
+          ]
+        }
+      }
+    }
+  },
+  "earlier": "Stages : Entreprise A (application web, 2016) · Entreprise B (application mobile, 2015).",
+  "projects": {
+    "mobileApp": {
+      "name": "Application mobile grand public",
+      "context": "Acme Digital · client Exemple",
+      "role": "Chef de projet technique & Lead iOS",
+      "description": "Application iOS et Android utilisée par des milliers de personnes. [Décrivez le projet, votre rôle et un résultat chiffré.]"
+    },
+    "webPlatform": {
+      "name": "Plateforme SaaS",
+      "context": "Nova Labs",
+      "role": "Développement full-stack",
+      "description": "Plateforme web de gestion pour les PME."
+    }
+  },
+  "projectGroups": {
+    "mentoring": {
+      "title": "Encadrement & POC",
+      "intro": "Exemple de section thématique : supprimez-la ou adaptez-la (encadrement, open source, side projects…).",
+      "projects": {
+        "internProject": {
+          "name": "Application interne",
+          "context": "Acme Digital · projet interne",
+          "role": "Encadrement technique",
+          "description": "Application mobile réalisée avec deux stagiaires."
+        }
+      }
+    }
+  },
+  "education": {
+    "master": {
+      "degree": "Master Informatique",
+      "school": "Université Exemple"
+    },
+    "bachelor": {
+      "degree": "Licence Informatique",
+      "school": "Université Exemple"
+    }
+  },
+  "skills": {
+    "delivery": "Delivery & pilotage",
+    "technical": "Technique",
+    "tools": "Outils"
+  },
+  "tags": {
+    "agileDelivery": "Pilotage Agile",
+    "ci": "Intégration continue",
+    "website": "Site",
+    "estimation": "Estimation & chiffrage",
+    "stakeholders": "Relation client"
+  },
+  "certifications": [
+    "Professional Scrum Master I — Scrum.org"
+  ],
+  "languages": {
+    "fr": {
+      "name": "Français",
+      "level": "Langue maternelle"
+    },
+    "en": {
+      "name": "Anglais",
+      "level": "Courant (C1)"
+    }
+  },
+  "interests": [
+    "Course à pied",
+    "Photographie"
+  ]
+}
